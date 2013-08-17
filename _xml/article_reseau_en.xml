@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<intime><![CDATA[We are very close]]></intime>
+<superIntime><![CDATA[We are emotionally intimate]]></superIntime>
+<proche><![CDATA[We are close]]></proche>
+<connaissance><![CDATA[We are somewhat close]]></connaissance>
+
+<add><![CDATA[With this button, I can add another contact. I can use it as many times as I wish.]]></add>
+<delete><![CDATA[With this button, I can delete a tie, a group, or a contact.]]></delete>
+<link><![CDATA[With this tool, I can draw ties between two persons who know each other (husband and wife, two friends).]]></link>
+<move><![CDATA[With this button, I can move contacts around.]]></move>
+<group><![CDATA[With this tool, I can gather together people who form groups (class mates, players in a sports team etc.).]]></group>
+
+<select0>
+	<li><![CDATA[girlfriend/boyfriend]]></li>
+	<li><![CDATA[partner]]></li>
+	<li><![CDATA[friend]]></li>
+	<li><![CDATA[family member]]></li>
+	<li><![CDATA[schoolmate]]></li>
+	<li><![CDATA[colleague]]></li>
+	<li><![CDATA[tutor]]></li>
+	<li><![CDATA[health professional]]></li>
+	<li><![CDATA[other]]></li>
+</select0>
+
+<select1>
+	<li><![CDATA[male]]></li>
+	<li><![CDATA[female]]></li>
+</select1>
+
+<nfo0><![CDATA[Name:]]></nfo0>
+<nfo1><![CDATA[S/he is:]]></nfo1>
+<nfo2><![CDATA[S/he is:]]></nfo2>
+
+<finish><![CDATA[I'm finished.]]></finish>
+
+<intro0><![CDATA[This is my network.]]></intro0>
+<intro1><![CDATA[This is me]]></intro1>
+
+<intro2><![CDATA[My first contact<br /> His/her position on the target expresses distance from me.]]></intro2>
+
+<success0><![CDATA[Thank you!]]></success0>
+<success1><![CDATA[Another map will be dedicated to my online contacts.<br />Click on "Continue".]]></success1>
+
+<tutoriel_btn><![CDATA[Start!]]></tutoriel_btn>
+<tutoriel><![CDATA[I am now going to draw my network of contacts.<br />
+These are people whom I have talked to (more than just saying hello) and/or interacted with in the last six months, and, whom I interact with, for example, at school, in the workplace, with my family, or at my leisure centre, etc.<br />
+I am the dot at the centre of the target. I shall place the others (blue dots) around me, with those closest to me towards the centre and the others further away.<br />
+I can call them by their first name, last name, initials etc. provided I can recognize them later. If two persons share the same name, I can distinguish them by adding a number or a letter.]]></tutoriel>
+
+<recording0><![CDATA[Saving data]]></recording0>
+<recording1><![CDATA[This process may take up to 60 seconds. Click on “Continue” when finished.]]></recording1>

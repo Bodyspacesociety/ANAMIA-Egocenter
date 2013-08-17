@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<intime><![CDATA[Nous sommes très proches]]></intime>
+<superIntime><![CDATA[Nous sommes intimes]]></superIntime>
+<proche><![CDATA[Nous sommes proches]]></proche>
+<connaissance><![CDATA[Nous sommes peu proches]]></connaissance>
+
+
+<add><![CDATA[En cliquant sur ce bouton, je rajoute une nouvelle connaissance. Je peux l'utiliser autant de fois que je veux.]]></add>
+<delete><![CDATA[En cliquant sur ce bouton, je supprime un lien, un regroupement ou une connaissance.]]></delete>
+<link><![CDATA[Grâce à cet outil, je trace un lien unissant deux personnes qui se connaissent (mari et femme, deux amis…).]]></link>
+<move><![CDATA[En cliquant sur ce bouton, je déplace mes connaissances.]]></move>
+<group><![CDATA[Grâce à cet outil, je rassemble des personnes formant des groupes (camarades de classe, joueurs dans une équipe sportive…).]]></group>
+
+<select0>
+	<li><![CDATA[mon (ma) petit(e) ami(e)]]></li>
+	<li><![CDATA[mon (ma) partenaire]]></li>
+	<li><![CDATA[un(e) ami(e)]]></li>
+	<li><![CDATA[un membre de ma famille]]></li>
+	<li><![CDATA[un(e) camarade d'école]]></li>
+	<li><![CDATA[un(e) collègue de travail]]></li>
+	<li><![CDATA[un(e) enseignant(e)]]></li>
+	<li><![CDATA[un professionnel de santé]]></li>
+	<li><![CDATA[autre]]></li>
+</select0>
+
+<select1>
+	<li><![CDATA[un homme]]></li>
+	<li><![CDATA[une femme]]></li>
+</select1>
+
+<nfo0><![CDATA[Il/elle s'appelle :]]></nfo0>
+<nfo1><![CDATA[C'est :]]></nfo1>
+<nfo2><![CDATA[C'est :]]></nfo2>
+
+<finish><![CDATA[J'ai terminé]]></finish>
+
+<intro0><![CDATA[Ceci est mon réseau]]></intro0>
+<intro1><![CDATA[Ça, c'est moi]]></intro1>
+
+<intro2><![CDATA[Ma première connaissance<br />Sa position dans la cible exprime sa distance par rapport à moi]]></intro2>
+
+<success0><![CDATA[Merci!]]></success0>
+<success1><![CDATA[Une autre carte sera réservée aux contacts en ligne.<br />Cliquez sur "Poursuivre".]]></success1>
+
+<tutoriel_btn><![CDATA[Commencer !]]></tutoriel_btn>
+<tutoriel><![CDATA[Je m’apprête maintenant à dessiner mon réseau de connaissances.<br />
+Ce sont des personnes avec qui j’ai parlé (en disant plus que bonjour ou bonsoir !) et j’ai échangé au cours des six derniers mois, et que je rencontre par exemple a l’école, au travail, dans ma famille, dans mes loisirs, etc.<br />
+Au centre de cette cible, c’est moi. Je positionne les autres autour de moi, les plus proches vers le centre et les autres plus loin.<br />
+Je peux les nommer avec leur prénom, leur surnom, leurs initiales etc. – pourvu que je puisse ensuite les reconnaître. Si deux personnes portent le même nom, je les distingue en rajoutant un chiffre ou une lettre.]]></tutoriel>
+
+<recording0><![CDATA[Enregistrement de vos données...]]></recording0>
+<recording1><![CDATA[Cette opération peut durer jusqu'à 60 secondes. Cliquer sur "Poursuivre" à la fin de l'enregistrement.]]></recording1>

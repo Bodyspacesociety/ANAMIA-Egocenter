@@ -32,3 +32,4 @@ P. Tubaro, A.A. Casilli & L. Mounier (2014). Eliciting personal network data in 
 The project ANAMIA (Ana-mia Sociability: an Online/Offline Social Networks Approach to Eating Disorders) was funded by the French Agency for National Research (ANR-09-ALIA-001).
 
 The software is released under GNU GENERAL PUBLIC LICENSE (GPL v2).
+
